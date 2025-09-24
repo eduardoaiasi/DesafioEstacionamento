@@ -48,10 +48,9 @@ Siga os passos abaixo para clonar o repositório e executar a aplicação:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SeuUsuario/NomeDoSeuRepositorio.git](https://github.com/SeuUsuario/NomeDoSeuRepositorio.git)
-    cd NomeDoSeuRepositorio/Estacionamento
+    git clone https://github.com/eduardoaiasi/DesafioEstacionamento.git
+    cd DesafioEstacionamento/Estacionamento
     ```
-    *(Lembre-se de substituir `SeuUsuario` e `NomeDoSeuRepositorio` pelos seus dados reais do GitHub)*
 
 2.  **Restaure as dependências (se necessário):**
     ```bash
